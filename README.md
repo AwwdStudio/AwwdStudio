@@ -1,7 +1,7 @@
 # 🌟 From Frustration to Innovation
 
 ## The Story Behind These Projects
-Hi, I'm Adam Wright - a traffic marshall by day and a problem-solving developer by night. While my day job keeps construction sites safe, my true passion lies in using technology to address the frustrations and disconnects I see in our modern society.
+Hi, I'm Adam - a traffic marshall by day and a problem-solving developer by night. While my day job keeps construction sites safe, my true passion lies in using technology to address the frustrations and disconnects I see in our modern society.
 
 ## Why These Projects Exist
 
